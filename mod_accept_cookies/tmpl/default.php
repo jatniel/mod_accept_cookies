@@ -24,7 +24,7 @@ if ( $add_fontawesome == 1  ){
 
 	}else {
 
-		$url_fontawesome = JURI::base(true) . "/modules/".$module->module."/assets/font-awesome.min.css";
+		$url_fontawesome = JURI::base(true) . "/modules/".$module->module."/assets/css/fontawesome-all.min.css";
 
 	}
 
